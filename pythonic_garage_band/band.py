@@ -57,8 +57,3 @@ class Drummer(Musician):
         return 'drums'
     def play_solo(self):
         return "rattle boom crash"
-    
-
-# if __name__ == '__main__':
-#     # jedi1 = JediMaster("Yoda")
-#     # print(jedi1
